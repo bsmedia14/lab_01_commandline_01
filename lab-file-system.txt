@@ -10,7 +10,7 @@ Follow the instructions line-by-line.
 ==========
 1. Open a new terminal window.
 ----------
-kmlkml
+
 ==========
 2. Create a directory called mtec1003.
 ----------
